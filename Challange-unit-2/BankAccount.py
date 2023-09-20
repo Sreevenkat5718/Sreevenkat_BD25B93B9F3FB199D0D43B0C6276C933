@@ -28,7 +28,7 @@ class BankAccount:
 
 
 # Create an instance of the BankAccount class
-account = BankAccount(account_number="212201008", account_holder_name="Samsun Kiran", initial_balance=10000.0)
+account = BankAccount(account_number="212201028", account_holder_name="sree venkatachalapathy", initial_balance=10000.0)
 
 # Test deposit and withdrawal functionality
 account.display_balance()
